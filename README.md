@@ -2,6 +2,13 @@
 
 This is a simple React application that displays **three dog cards side by side**. Each card allows you to fetch a random dog image and displays its breed name along with a counter that tracks the number of times the "Show Dog" button has been clicked — **per card**.
 
+## 📸 Demo
+
+You can check out the live version of the app here:  
+[Dog Image Counter - Live Demo](https://spontaneous-treacle-3424be.netlify.app/)
+
+
+
 ## 🚀 Features
 
 - Fetches **random dog images** from the [Dog CEO API](https://dog.ceo/dog-api/).
